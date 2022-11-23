@@ -47,11 +47,14 @@ export type Sidebar = Record<
 >;
 export const SIDEBAR: Sidebar = {
 	pt: {
-		'Section Header': [
-			{ text: 'Introduction', link: 'pt/introducao' },
-			{ text: 'Page 2', link: 'pt/page-2' },
-			{ text: 'Page 3', link: 'pt/page-3' },
+		'Conceito': [
+			{ text: 'Introdução', link: 'pt/introducao' },
 		],
-		'Another Section': [{ text: 'Page 4', link: 'pt/page-4' }],
+		'Infraestrutura	': [
+			{ text: 'Page 4', link: 'pt/page-4' },
+			{ text: 'Descritivo', link: 'pt/descritivo' },
+			{ text: 'Page 3', link: 'pt/page-3' },
+	
+	],
 	},
 };
