@@ -1,6 +1,8 @@
 # Affectum
+Affectum is a project developed to writers lovers, specifically to people who wants to share your thoughts and feelings to others in a comfortable way.
 
 ## Affectum Documentation
+This is the affectum documentation
 
 - ✅ **Liberdade**
 - ✅ **Comunidade interativa**
