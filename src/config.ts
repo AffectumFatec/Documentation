@@ -53,7 +53,7 @@ export const SIDEBAR: Sidebar = {
 		'Infraestrutura	': [
 			{ text: 'Requisitos', link: 'pt/requisitos' },
 			{ text: 'Descritivo', link: 'pt/descritivo' },
-			{ text: 'Page 3', link: 'pt/page-3' },
+			{ text: 'Caso de Uso', link: 'pt/casodeuso' },
 	
 	],
 	},
