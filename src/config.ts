@@ -51,7 +51,7 @@ export const SIDEBAR: Sidebar = {
 			{ text: 'Introdução', link: 'pt/introducao' },
 		],
 		'Infraestrutura	': [
-			{ text: 'Page 4', link: 'pt/page-4' },
+			{ text: 'Requisitos', link: 'pt/requisitos' },
 			{ text: 'Descritivo', link: 'pt/descritivo' },
 			{ text: 'Page 3', link: 'pt/page-3' },
 	
