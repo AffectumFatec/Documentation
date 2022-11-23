@@ -24,9 +24,9 @@ Por isso o Affectum se fez mais que um criador de texto, se assemelha com uma re
 
 Quer saber mais sobre os criadores? Acesse nossos githubs ⬇️
 
-[Breno Ragazzo](https://github.com/IgorFigueiredo28)
+[Breno Ragazzo](https://github.com/BrenoRRagazzo)
 [Igor Figueiredo](https://github.com/IgorFigueiredo28)
-[Vinicius Mineiro](https://github.com/viniciusventura29)
+[Vinicius Mineiro](https://github.com/ViniciusMineiro)
 [Vinicius Ventura](https://github.com/viniciusventura29)
 
 😉🚀
