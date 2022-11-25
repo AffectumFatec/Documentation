@@ -26,7 +26,7 @@ Usuário é o ator que representa os utilizadores deste aplicativo. Um ator pode
 
 Cada funcionalidade dos diagramas de casos de uso será descrita da Tabela  
 A Figura 2 apresenta o caso de uso para a entrada do usuário no sistema e utilização da ferramenta. 
-![Tabela caso de uso](../../../public/tabela_caso_de_uso.png)
+![Tabela caso de uso](/tabela_caso_de_uso.png)
  
 ## Diagrama de Classe
 
@@ -36,4 +36,4 @@ Este tipo de representação é bastante útil no desenvolvimento de sistemas e 
 
 ### Documentação dos Diagrama de Classe
 A Figura 3 apresenta o caso de uso para a entrada do usuário no sistema e utilização da ferramenta. 
-![Tabela caso de uso](../../../public/diagrama_de_classe.jpeg)
+![Tabela caso de uso](/diagrama_de_classe.jpeg)
