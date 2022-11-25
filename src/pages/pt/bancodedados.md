@@ -5,4 +5,4 @@ layout: ../../layouts/MainLayout.astro
 ---
 
 ## Modelo
-![Imagem do banco de dados](../../../public/bdImage.jpeg)
+![Imagem do banco de dados](/bdImage.jpeg)

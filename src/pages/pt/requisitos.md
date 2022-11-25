@@ -12,9 +12,9 @@ A engenharia de requisitos (RE – Requirements Engineering) é o processo de de
 
 Os requisitos funcionais descrevem o que o sistema deve fazer, isto é, definem a funcionalidade desejada do software (SOMMERVILLE, 2007). A Tabela 2 apresenta os requisitos funcionais deste projeto.
 
-![Requisitos funcionais](../../../public/requisitos_funcionais.png)
+![Requisitos funcionais](/requisitos_funcionais.png)
 ### Requisitos Não Funcionais
 
 “Os requisitos não funcionais são aqueles não diretamente relacionados às funções específicas fornecidas pelo sistema” (SOMMERVILLE, 2007). A Tabela 3 apresenta os requisitos não funcionais deste projeto.
 
-![Requisitos não funcionais](../../../public/requisitos_nao_funcionais.png)
+![Requisitos não funcionais](/requisitos_nao_funcionais.png)

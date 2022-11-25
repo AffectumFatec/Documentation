@@ -17,7 +17,7 @@ Os atores que interagem com o sistema são: o Usuário, API Facebook, Firebase, 
 Usuário é o ator que representa os utilizadores deste aplicativo. Um ator pode, por exemplo, buscar filmes, avaliar, favoritar, entre outros.  
  A Figura 1 apresenta o caso de uso para a entrada do usuário no sistema e utilização da ferramenta. 
 
-![Caso de uso login](../../../public/diagrama_de_caso_de_uso.jpg)
+![Caso de uso login](/diagrama_de_caso_de_uso.jpg)
  
 
 
