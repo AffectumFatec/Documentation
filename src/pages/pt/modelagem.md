@@ -22,7 +22,7 @@ Usuário é o ator que representa os utilizadores deste aplicativo. Um ator pode
 
 
 
-### Documentação dos Casos de Uso
+### Documentação do Caso de Uso
 
 Cada funcionalidade dos diagramas de casos de uso será descrita da Tabela  
 A Figura 2 apresenta o caso de uso para a entrada do usuário no sistema e utilização da ferramenta. 
@@ -34,6 +34,6 @@ Diagrama de classes é uma representação estática utilizada na área da progr
 
 Este tipo de representação é bastante útil no desenvolvimento de sistemas e de softwares de computação, pois define todas as classes que o sistema precisa ter e serve de base para a construção de outros diagramas que definem o tipo de comunicação, sequência e estados dos sistemas.
 
-### Documentação dos Diagrama de Classe
+### Documentação do Diagrama de Classe
 A Figura 3 apresenta o caso de uso para a entrada do usuário no sistema e utilização da ferramenta. 
 ![Tabela caso de uso](/diagrama_de_classe.jpeg)
